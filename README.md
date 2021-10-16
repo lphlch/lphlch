@@ -20,3 +20,7 @@ An undergraduate of TONGJI UNIVERSITY.
 - 📚 Currently learning base of Comuputer Science
 
 Here you will find course project code, engineering project code, and even part-time outsourcing project code.
+
+<p align='center'>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=lphlch"> 
+</p>

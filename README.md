@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 An undergraduate of TONGJI UNIVERSITY.
+- 🏫 School: TONGJI UNIVERSITY
 - 🖥️ Major: Computer Science and Technology
+- 📚 Currently learning base of Comuputer Science
+
+Here you will find course project code, engineering project code, and even part-time outsourcing project code.

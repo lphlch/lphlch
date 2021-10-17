@@ -5,7 +5,7 @@
 
 - 🖥️ Major: **Computer Science and Technology**
 
-- 📚 Currently learning: **base of Comuputer Science**
+- 📚 Currently learning: **Base of Comuputer Science**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lphlch" alt="lphlch" /></a> </p>
 

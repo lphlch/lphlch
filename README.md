@@ -5,7 +5,7 @@
 
 - 🖥️ Major: **Computer Science and Technology**
 
-- 📚 Currently learning: **Database, Compiler, Computer Architecture, Operation System**
+- 📚 Currently learning: **Database, Compiler, Computer Architecture, Operating System**
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lphlch" alt="lphlch" /></a> </p>
 

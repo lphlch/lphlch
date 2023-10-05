@@ -4,7 +4,7 @@ I am a passionate and motivated student with a strong interest in computer and s
 
 Previously, I interned as a Software Developer at Cisco and currently, I'm gaining experience as a DevOps Support Engineer Intern at SAP.  
 
-You can find my CV [here: cv.pdf](cv\cv.pdf)   
+You can find my CV [here: cv.pdf](cv/cv.pdf)   
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lphlch" alt="lphlch" /></a> </p>
 

@@ -2,10 +2,12 @@
 <h3 align="center">An Undergraduate of TONGJI UNIVERSITY</h3>
 <h3 align="center">Also a Software Developer Intern at Cisco</h3>
 
+You can find my CV [here: cv.pdf](cv\cv.pdf) 
+
+
+
 - 🏫 School: **TONGJI UNIVERSITY**
-
 - 🖥️ Major: **Computer Science and Technology**
-
 - 📚 Currently learning: **Redis**
 
 

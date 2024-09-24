@@ -2,9 +2,7 @@
 
 I am a passionate and motivated student with a strong interest in computer and software, pursuing Master degree of Electrical and Computer Engineering at University of Waterloo. I have also obtained Bachelor degree of Computer Science and Technology at Tongji University, which is top 10 university in China.  
 
-Previously, I interned as a Software Developer at Cisco, as a DevOps Support Engineer Intern at SAP and as Software Engineer at Samsung.  
-
-You can find my CV [here: cv.pdf](cv/CV.pdf)   
+Previously, I interned as a Software Developer at Cisco, as a DevOps Support Engineer Intern at SAP and as Software Engineer at Samsung.
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lphlch" alt="lphlch" /></a> </p>
 

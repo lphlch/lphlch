@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm lphlch</h1>
 
-I am a passionate and motivated student with a strong interest in computer and software, pursuing my Bachelor of Engineering in Computer Science and Technology at Tongji University.  
+I am a passionate and motivated student with a strong interest in computer and software, pursuing Master degree of Electrical and Computer Engineering at University of Waterloo. I have also obtained Bachelor degree of Computer Science and Technology at Tongji University, which is top 10 university in China.  
 
-Previously, I interned as a Software Developer at Cisco and as a DevOps Support Engineer Intern at SAP.  
+Previously, I interned as a Software Developer at Cisco, as a DevOps Support Engineer Intern at SAP and as Software Engineer at Samsung.  
 
 You can find my CV [here: cv.pdf](cv/CV.pdf)   
 
@@ -20,7 +20,7 @@ You can find my CV [here: cv.pdf](cv/CV.pdf)
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
 <!--             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/> -->
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/>
+<!--             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/> -->
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
         </p> 

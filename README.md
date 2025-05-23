@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm lphlch</h1>
 
-I am a Master's student in Electrical and Computer Engineering at the University of Waterloo, with a strong interest in computer systems and software development. I hold a Bachelor's degree in Computer Science and Technology from Tongji University, one of the top 10 universities in China.
+I am a Master's student in Electrical and Computer Engineering (Software Track) at the University of Waterloo, with a strong interest in computer systems and software development. I hold a Bachelor's degree in Computer Science and Technology from Tongji University, one of the top 10 universities in China.
 
-My professional experience spans various roles, including a Software Developer Intern at Cisco, a DevOps Support Engineer Intern at SAP, and a Software Engineer at Samsung.
+My professional experience spans various companies as Software Engineer Intern, including Cisco, SAP and Samsung.
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lphlch" alt="lphlch" /></a> </p>
 
